@@ -31,15 +31,15 @@ This project is a testament to the power of careful data management and insightf
 
 ## Key Findings
 
-Our analysis yielded several key insights into global renewable energy trends:
+The analysis yielded several key insights into global renewable energy trends:
 
-1. **Countries with Highest Renewable Energy Investments**: Our analysis revealed that Somalia, Uganda, Liberia, and the Central African Republic were among the countries with the highest percentage of renewable energy investments in 2021.
+1. **Countries with Highest Renewable Energy Investments**: The analysis revealed that Somalia, Uganda, Liberia, and the Central African Republic were among the countries with the highest percentage of renewable energy investments in 2021.
 
 2. **Renewable Energy Sources**: Solid biofuels emerged as the most popular source of renewable energy, followed by modern renewables and hydro energy.
 
-3. **Energy Consumption Trends**: We found significant increases in renewable energy consumption in several countries. For instance, Somalia and Estonia showed remarkable growth in renewable energy consumption between 1990 and 2020.
+3. **Energy Consumption Trends**: I found significant increases in renewable energy consumption in several countries. For instance, Somalia and Estonia showed remarkable growth in renewable energy consumption between 1990 and 2020.
 
-4. **Investment in Different Categories**: Our analysis showed that the majority of renewable energy investments were directed towards heating and electricity generation.
+4. **Investment in Different Categories**: The analysis showed that the majority of renewable energy investments were directed towards heating and electricity generation.
 
 5. **Global Renewable Energy Trends**: Globally, there was a significant increase in the percentage of renewable energy investments from 1990 to 2020.
 
