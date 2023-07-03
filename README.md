@@ -63,5 +63,18 @@ While my analysis has provided valuable insights into global renewable energy tr
 
 These are just a few possibilities. The field of renewable energy is rapidly evolving, and there are countless questions and avenues to explore. We look forward to continuing to delve into this important topic in our future work.
 
+## References
+
+My analysis and findings are based on data from several reputable sources. Here are the key references:
+
+1. **International Energy Agency (IEA)**: We utilized the World Energy Investment 2023 datafile from the IEA, which includes world and regional investment data for supply and end-use. [Link to the data source](https://www.iea.org/reports/world-energy-investment-2023)
+
+2. **International Renewable Energy Agency (IRENA)**: IRENA's Renewable Energy Statistics 2022 provided comprehensive datasets on renewable energy capacity and use worldwide, including data on investments in renewables. [Link to the data source](https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022)
+
+3. **World Bank**: The World Bank's data on renewable energy consumption as a percentage of total final energy consumption was instrumental in our analysis. This data comes from the Sustainable Energy for All (SE4ALL) database. [Link to the data source](https://data.worldbank.org/indicator/EG.FEC.RNEW.ZS)
+
+4. **UN SDG Tracker**: The UN Sustainable Development Goals tracker provided data on the global percentage of renewable energy (Target 7.2) and international financial flows to developing countries in support of clean energy research and development and renewable energy production (Target 7.A). [Link to the data source](https://www.irena.org/publications/2022/Jul/Renewable-Energy-Statistics-2022)
+
+
 
 
