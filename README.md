@@ -4,13 +4,14 @@ This repository contains all the necessary files and scripts used in our compreh
 
 ## Repository Structure
 
-- `EER Diagram`: This directory contains the Entity-Relationship (ER) diagram for our database design, both as a `.mwb` file and an image.
-- `Raw Data`: This directory contains the main raw data Excel file with multiple sheets.
-- `Preprocessed Data`: This directory contains the selected sheet from the raw data Excel file, saved as a `.csv` file, which was used for preprocessing.
-- `Preprocessing Script`: This directory contains a Jupyter notebook file with the preprocessing script.
-- `Postprocessed Data`: This directory contains all individual extracted datasets from the preprocessed `.csv` file.
-- `SQL Files`: This directory contains three SQL files - one for creating the database schema, one for loading the data into the database, and one for executing the queries.
+- `EER_Diagram`: This directory contains the Entity-Relationship (ER) diagram for our database design, both as a `.mwb` file and an image.
+- `Raw_Data`: This directory contains the main raw data Excel file with multiple sheets and an extracted sheet as a `.csv` file which was used for preprocessing.
+- `Preprocessed_Data`: This directory contains all the preprocessed sets that were extracted from the preprocessing `.csv` file. 
+- `Preprocessing_script`: Jupyter notebook containing the preprocessing script.
+- `SQL_Files`: This directory contains three SQL files - one for creating the database schema, one for loading the data into the database, and one for executing the queries.
 - `Query Outputs`: This directory contains the outputs of the queries as `.csv` files.
+- `Other_Datasets_Organized`: This directory contains the preprocessed versions of other data sets from the `Other_Sets` directory which could be used for further analysis
+- `Other_Sets`: This directory contains other data sets that could be used for further analysis. 
 
 ## Project Overview
 
