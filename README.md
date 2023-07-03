@@ -10,6 +10,7 @@ This repository contains all the necessary files and scripts used in my comprehe
 - `Preprocessing_script`: Jupyter notebook containing the preprocessing script.
 - `SQL_Files`: This directory contains three SQL files - one for creating the database schema, one for loading the data into the database, and one for executing the queries.
 - `Query Outputs`: This directory contains the outputs of the queries as `.csv` files.
+- `Visualizations`: This jupyter notebook has some key visualizations of some of the insights I derived from my analysis.
 - `Other_Datasets_Organized`: This directory contains the preprocessed versions of other data sets from the `Other_Sets` directory which could be used for further analysis
 - `Other_Sets`: This directory contains other data sets that could be used for further analysis. 
 
