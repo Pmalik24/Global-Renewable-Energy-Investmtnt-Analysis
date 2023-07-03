@@ -15,4 +15,16 @@ This repository contains all the necessary files and scripts used in our compreh
 
 ## Project Overview
 
-The aim of this project was to analyze renewable energy trends across different countries, categories, and sources. We started with a raw Excel data file, preprocessed the data using Python, and loaded the data into a MySQL database. Our database design, which adheres to the principles of normalization up to the third normal form (3NF), facilitated complex SQL queries that spanned multiple tables.
+The objective of this project was to conduct a comprehensive analysis of global renewable energy trends. The focus was on understanding the patterns and shifts in renewable energy investments across various countries, categories, and sources. 
+
+The project commenced with a raw Excel data file that contained a wealth of information. This data was meticulously preprocessed using Python, transforming it into a format suitable for in-depth analysis. The preprocessing stage involved data cleaning, normalization, and extraction of relevant features. This stage was critical in ensuring the quality and reliability of our subsequent analysis.
+
+Once the data was preprocessed, it was loaded into a MySQL database. The design of the database was a crucial aspect of the project, as it provided the foundation for our data storage, retrieval, and analysis. Our database was structured around five main entities: countries, sources, categories, renewable investments, and energy consumption. These entities were chosen based on the nature of our data and the questions we aimed to answer through our analysis.
+
+Our database design strictly adheres to the principles of normalization, specifically up to the third normal form (3NF), to ensure data integrity and efficiency. This design facilitated complex SQL queries that spanned multiple tables, providing us with the flexibility to explore various aspects of our data. 
+
+The project culminated in a series of complex SQL queries that yielded valuable insights into renewable energy trends. The results of these queries were exported as CSV files for further analysis and visualization.
+
+In addition to the main analysis, this repository also contains other datasets that could be used for further analysis. These datasets have been preprocessed and organized for easy integration into future research.
+
+This project is a testament to the power of careful data management and insightful analysis. It provides a robust foundation for understanding global renewable energy trends and serves as a springboard for future research in this area.
